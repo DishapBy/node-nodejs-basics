@@ -1,1 +1,1 @@
-Compress me!
+C:\Users\Dmitry\Desktop\node-nodejs-basics\src\zip\files\archive.gz
